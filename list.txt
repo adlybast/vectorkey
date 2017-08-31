@@ -1,0 +1,13 @@
+step.
+
+-requirement gathering
+-product planning
+-development
+-product shipping
+-iteration and evaluation
+-handover
+
+-desktop apps
+-website
+-mobile apps
+
