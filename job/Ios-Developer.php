@@ -10,7 +10,7 @@
         
     <!-- Favicons
     ================================================== -->
-    <link rel="shortcut icon" href="../img/client/vk.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/client/dgtz_wht.png" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row">
 
-                 <img class="img-career" src="../img/client/vectorkey.png">
+                 <img class="img-career" src="../img/client/digitize.png">
                  <div class="space"></div>
                 <div class="col-md-7">
                 	<div class="box">
@@ -87,14 +87,14 @@
                         <hr>
                         <p>Jl. Jawa No.12A Blok H Cinere, Depok Jawa Barat</p>
                         <div class="space"></div>
-                        <a href="../application-form.php" class="btn btn-info">Apply for this position</a>
+                        <a href="../application-form.php" class="btn btn-info-outline">Apply for this position</a>
                 	</div>
                 </div>
                 <div class="col-md-5">
                 	<div class="box">
                 		<h3><i class="fa fa-question"></i> Who are we</h3>
 						<hr>
-						<p><strong>Vectorkey</strong> is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet condimentum tellus, at ornare augue. Sed pulvinar mi lorem, non tincidunt tortor dapibus et. Nam viverra, urna nec euismod iaculis, dui ante interdum sem, non pellentesque metus lorem vel sapien. Phasellus in leo at nulla.</p>
+						<p><strong>Digitize</strong> is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet condimentum tellus, at ornare augue. Sed pulvinar mi lorem, non tincidunt tortor dapibus et. Nam viverra, urna nec euismod iaculis, dui ante interdum sem, non pellentesque metus lorem vel sapien. Phasellus in leo at nulla.</p>
                         <br>
                         <h3><i class="fa fa-question"></i> What We Offer</h3>
                         <hr>
