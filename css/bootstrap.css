@@ -48,7 +48,7 @@ a {
 }
 a:active,
 a:hover {
-  color: #55acee;
+  color: #16c6b5;
   outline: 0;
 }
 abbr[title] {
@@ -3034,7 +3034,7 @@ fieldset[disabled] .btn {
 }
 
 .btn-secondary-outline:hover {
-  color: #55acee;
+  color: #16c6b5;
   background-color: #fff;
   border-color: #fff;
 }
@@ -3223,23 +3223,23 @@ fieldset[disabled] .btn-info.active {
   border-color: #46b8da;
 }
 .btn-info-outline {
-  color: #5bc0de;
+  color: #16c6b5;
   background-color: transparent;
   background-image: none;
-  border-color: #5bc0de;
+  border-color: #16c6b5;
 }
 
 .btn-info-outline:focus, .btn-info-outline.focus, .btn-info-outline:active, .btn-info-outline.active,
 .open > .btn-info-outline.dropdown-toggle {
   color: #fff;
-  background-color: #5bc0de;
-  border-color: #5bc0de;
+  background-color: #16c6b5;
+  border-color: #16c6b5;
 }
 
 .btn-info-outline:hover {
   color: #fff;
-  background-color: #5bc0de;
-  border-color: #5bc0de;
+  background-color: #16c6b5;
+  border-color: #16c6b5;
 }
 .btn-info .badge {
   color: #5bc0de;
@@ -3959,7 +3959,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
-  color: #55acee;
+  color: #16c6b5;
   text-decoration: none;
   background-color: #eee;
 }
@@ -4797,7 +4797,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pager li > a:hover,
 .pager li > a:focus {
   text-decoration: none;
-  background-color: #55acee;
+  background-color: #16c6b5;
   color: white;
 }
 .pager .next > a,

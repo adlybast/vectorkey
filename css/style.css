@@ -77,14 +77,14 @@ p.intro{
 	line-height: 24px;
 	font-family: 'Open Sans', sans-serif;
 }
-a{ color: #55acee;}
+a{ color: #16c6b5;}
 a:focus{
 	text-decoration: none;
-	color: #55acee;
+	color: #16c6b5;
 }
 
 .section-title hr{
-	border-color: #55acee;
+	border-color: #16c6b5;
 	border-width: 4px;
 	width: 60px;
 	float: left;
@@ -131,7 +131,7 @@ font-weight: 900;
 }
 
 #tf-menu.navbar-default .navbar-nav > li > a:hover{
-	color: #55acee;
+	color: #16c6b5;
 	text-transform: uppercase;
 	background-color: transparent;
 }
@@ -144,7 +144,7 @@ font-weight: 900;
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus{
-	color: #55acee !important;
+	color: #16c6b5 !important;
 	background-color: transparent;
 	font-weight: 700;
 }
@@ -154,8 +154,8 @@ font-weight: 900;
 	}
 .navbar-default .navbar-toggle:hover, 
 .navbar-default .navbar-toggle:focus {
-	background-color: #55acee;
-	border-color: #55acee;
+	background-color: #16c6b5;
+	border-color: #16c6b5;
 	}
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -191,7 +191,7 @@ font-weight: 900;
 }
 
 .color{
-	color: #55acee;
+	color: #16c6b5;
 }
 
 .img-home{
@@ -210,9 +210,9 @@ a.fa.fa-angle-down {
 	transition: all 0.5s;
 }
 a.fa.fa-angle-down:hover{
-	background: #55acee;
+	background: #16c6b5;
 	color: #ffffff;
-	border: 2px solid #55acee;
+	border: 2px solid #16c6b5;
 }
 
 /* Blogging Style */
@@ -246,7 +246,7 @@ a.fa.fa-angle-down:hover{
 }
 
 .color{
-	color: #55acee;
+	color: #16c6b5;
 }
 
 a.fa.fa-angle-down {
@@ -259,9 +259,9 @@ a.fa.fa-angle-down {
 	transition: all 0.5s;
 }
 a.fa.fa-angle-down:hover{
-	background: #55acee;
+	background: #16c6b5;
 	color: #ffffff;
-	border: 2px solid #55acee;
+	border: 2px solid #16c6b5;
 }
 
 /* Career Style */
@@ -295,7 +295,7 @@ a.fa.fa-angle-down:hover{
 }
 
 .color{
-	color: #55acee;
+	color: #16c6b5;
 }
 
 a.fa.fa-angle-down {
@@ -308,9 +308,9 @@ a.fa.fa-angle-down {
 	transition: all 0.5s;
 }
 a.fa.fa-angle-down:hover{
-	background: #55acee;
+	background: #16c6b5;
 	color: #ffffff;
-	border: 2px solid #55acee;
+	border: 2px solid #16c6b5;
 }
 
 .box{
@@ -370,7 +370,7 @@ a.fa.fa-angle-down:hover{
 	font-weight: 300;
 }
 .section-title.center .line{
-	border-top: 4px solid #55acee;
+	border-top: 4px solid #16c6b5;
 	height: 10px;
 	width: 60px;
 	text-align: center;
@@ -379,7 +379,7 @@ a.fa.fa-angle-down:hover{
 }
 
 .section-title.center hr {
-	border-top: 4px solid #55acef;
+	border-top: 4px solid #16c6b5;
 	width: 40px;
 	text-align: center;
 	margin-top: 10px;
@@ -401,7 +401,7 @@ img.img-circle.team-img {
 	transition: all 0.5s;
 }
 #tf-team .item .thumbnail:hover>img.img-circle.team-img{
-	border: 6px solid #55acee;
+	border: 6px solid #16c6b5;
 }
 #tf-team .thumbnail {
 	background: transparent;
@@ -431,10 +431,10 @@ img.img-circle.team-img {
 .owl-theme .owl-controls.clickable .owl-page:hover span {
 	filter: Alpha(Opacity=100);
 	opacity: 1;
-	background: #55acee;
+	background: #16c6b5;
 }
 .owl-theme .owl-controls .owl-page.active span{
-	background: #55acee;
+	background: #16c6b5;
 }
 
 /* Process Section */
@@ -448,7 +448,7 @@ img.img-circle.team-img {
 
 #tf-process i.fa {
 	font-size: 40px;
-	border: 4px solid #55acee;
+	border: 4px solid #16c6b5;
 	width: 100px;
 	height: 100px;
 	padding: 27px 25px;
@@ -463,7 +463,7 @@ img.img-circle.team-img {
 }
 
 #tf-process .service:hover>i.fa{
-	background: #55acee;
+	background: #16c6b5;
 	color: #ffffff;
 }
 
@@ -478,7 +478,7 @@ img.img-circle.team-img {
 
 #tf-service i.fa {
 	font-size: 40px;
-	border: 4px solid #55acee;
+	border: 4px solid #16c6b5;
 	width: 100px;
 	height: 100px;
 	padding: 27px 25px;
@@ -493,7 +493,7 @@ img.img-circle.team-img {
 }
 
 #tf-service .service:hover>i.fa{
-	background: #55acee;
+	background: #16c6b5;
 	color: #ffffff;
 }
 
@@ -638,11 +638,11 @@ ol.type li a.active { font-weight: 700; }
 #tf-works i.fa {
 	height: 30px;
 	width: 30px;
-	border: 1px solid #55acee;
+	border: 1px solid #16c6b5;
 	font-size: 20px;
 	padding: 5px;
 	border-radius: 50%;
-	color: #55acee;
+	color: #16c6b5;
 }
 /* Testimonials Section */
 #tf-testimonials{
@@ -717,7 +717,7 @@ label {
 
 button.btn.tf-btn.btn-default {
 	float: right;
-	background: #55acee;
+	background: #16c6b5;
 	border: 0;
 	border-radius: 0;
 	padding: 10px 40px;
@@ -811,11 +811,11 @@ button.btn.tf-btn.btn-default {
 }
 .join{
 	width: 100%;
-	background-color: #55acee;
+	background-color: #16c6b5;
 }
 .comment > a:hover{
 	text-decoration: none;
-	color: #55acee;
+	color: #16c6b5;
 }
 /* Footer */
 nav#footer{
@@ -843,7 +843,7 @@ nav#footer p{
 	transition: all 0.5s;
 }
 #footer i.fa:hover{
-	background: #55acee;
-	border-color: #55acee;
+	background: #16c6b5;
+	border-color: #16c6b5;
 	color: #ffffff;
 	
