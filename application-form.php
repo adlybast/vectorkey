@@ -1,6 +1,6 @@
     <!-- Favicons
     ================================================== -->
-    <link rel="shortcut icon" href="img/client/vk.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/client/dgtz_grn.png" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
@@ -31,7 +31,7 @@
 <div class="space"></div>
 <div class="container">
 	<div class="row">
-		<img class="img-career" src="img/client/vectorkey.png">
+		<a href="index.html"><img class="img-career" src="img/client/digitize.png"></a>
         <div class="space"></div>
 
 		<div class="col-md-8">
@@ -88,7 +88,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="form-group">
-							<input class="form-control btn btn-info" type="submit" name="send_application" value="Send Application">
+							<input class="form-control btn btn-info-outline" type="submit" name="send_application" value="Send Application">
 						</div>
 					</div>
 				</div>

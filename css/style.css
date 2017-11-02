@@ -835,15 +835,7 @@ nav#footer p{
 #footer i.fa {
 	height: 30px;
 	width: 30px;
-	border: 2px solid #8c8c8c;
 	font-size: 20px;
 	padding: 4px 5px;
-	border-radius: 50%;
 	color: #8c8c8c;
-	transition: all 0.5s;
 }
-#footer i.fa:hover{
-	background: #16c6b5;
-	border-color: #16c6b5;
-	color: #ffffff;
-	

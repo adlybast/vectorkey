@@ -10,7 +10,7 @@
         
     <!-- Favicons
     ================================================== -->
-    <link rel="shortcut icon" href="../img/client/dgtz_wht.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/client/dgtz_grn.png" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row">
 
-                 <img class="img-career" src="../img/client/digitize.png">
+                 <a href="index.html"><img class="img-career" src="../img/client/digitize.png"></a>
                  <div class="space"></div>
                 <div class="col-md-7">
                 	<div class="box">
