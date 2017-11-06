@@ -40,21 +40,19 @@
 					<div class="col-md-4">
 						<div class="form-group">
 							<label>*First Name</label>
-							<input type="text" name="apply_first_name" class="form-control" placeholder="First Name">
+							<input type="text" name="first_name" class="form-control" placeholder="First Name">
+						</div>
+						<div class="form-group">
+							<label>*Last Name</label>
+							<input type="text" name="last_name" class="form-control" placeholder="Last Name">
 						</div>
 						<div class="form-group">
 							<label>*Email</label>
-							<input type="email" name="apply_email" class="form-control" placeholder="Email">
+							<input type="email" name="email" class="form-control" placeholder="Email">
 						</div>
 						<div class="form-group">
 							<label>*Phone Number</label>
-							<input type="text" name="apply_phone_number" class="form-control" placeholder="0801-xxxx-xxxx">
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="form-group">
-							<label>*Last Name</label>
-							<input type="text" name="apply_last_name" class="form-control" placeholder="Last Name">
+							<input type="text" name="phone_number" class="form-control" placeholder="0801-xxxx-xxxx">
 						</div>
 					</div>	
 				</div>
@@ -63,7 +61,7 @@
 					<div class="col-md-7">
 						<div class="form-group">
             	        	<label>*Address</label>
-            	            <textarea class="form-control" name="apply_address" rows="5" placeholder="Address" required></textarea>
+            	            <textarea class="form-control" name="address" rows="5" placeholder="Address" required></textarea>
             	        </div>
 					</div>
 				</div>
@@ -72,15 +70,15 @@
 					<div class="col-md-4">
 						<div class="form-group">
 							<label>*City</label>
-							<input type="text" name="apply_city" class="form-control" placeholder="Your City">
+							<input type="text" name="city" class="form-control" placeholder="Your City">
 						</div>
 						<div class="form-group">
 							<label>*Resume</label>
-							<input type="file" name="apply_resume">
+							<input type="file" name="resume">
 						</div>	
 						<div class="form-group">
 							<label>*Position</label>
-							<input type="text" name="apply_position" value="<?php echo $_POST['position'];?>" readonly>
+							<input type="text" name="position" value="<?php echo $_POST['position'];?>" readonly>
 						</div>
 					</div>
 				</div>
@@ -88,7 +86,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="form-group">
-							<input class="form-control btn btn-info-outline" type="submit" name="send_application" value="Send Application">
+							<input class="form-control btn btn-info-outline" type="submit" name="submit" value="Send Application">
 						</div>
 					</div>
 				</div>

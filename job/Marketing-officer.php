@@ -86,7 +86,10 @@
                         <hr>
                         <p>Jl. Jawa No.12A Blok H Cinere, Depok Jawa Barat</p>
                         <div class="space"></div>
-                        <a href="../application-form.php" class="btn btn-info-outline">Apply for this position</a>
+                        <form action="../application-form.php" method="post">
+                            <input type="hidden" name="position" value="Marketing Officer">
+                            <input class="btn btn-info-outline" type="submit" name="submit" value="Apply for this position">
+                        </form>
                 	</div>
                 </div>
                 <div class="col-md-5">
