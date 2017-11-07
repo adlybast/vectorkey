@@ -55,7 +55,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">Digitize</a>
+          <a class="navbar-brand" href="../index.html">Digitize</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -79,7 +79,7 @@
         <div class="container">
             <div class="row">
 
-                 <a href="index.html"><img class="img-career" src="../img/client/digitize.png"></a>
+                 <a href="../index.html"><img class="img-career" src="../img/client/digitize.png"></a>
                  <div class="space"></div>
                 <div class="col-md-7">
                 	<div class="box">
