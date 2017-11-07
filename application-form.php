@@ -73,12 +73,14 @@
 							<input type="text" name="city" class="form-control" placeholder="Your City">
 						</div>
 						<div class="form-group">
-							<label>*Resume</label>
-							<input type="file" name="resume">
+							<label>*Resume</label><br>
+							<div class="btn btn-info btn-file">
+								Browse...<input type="file" name="resume">
+							</div>
 						</div>	
 						<div class="form-group">
 							<label>*Position</label>
-							<input type="text" name="position" value="<?php echo $_POST['position'];?>" readonly>
+							<input type="text" name="position" class="form-control" value="<?php echo $_POST['position'];?>" readonly>
 						</div>
 					</div>
 				</div>
