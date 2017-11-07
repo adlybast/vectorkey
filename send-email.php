@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="css/animate.css">
 
 <?php
-include"config.php";
 require"phpmailer/PHPMailerAutoload.php";
 
 
@@ -31,7 +30,7 @@ $mail->SMTPSecure = 'tls';                     	// Enable TLS encryption, `ssl` 
 $mail->Port = 587;                             	// TCP port to connect to
 
 $mail->setFrom($email, $subject); //('from', \'subject
-$mail->addAddress('adlybast@yahoo.com', $_POST['sender_name']);     // Add a recipient
+$mail->addAddress('support@digitize.co.id', $_POST['sender_name']);     // Add a recipient
 //$mail->addAddress('ellen@example.com');               // Name is optional
 //$mail->addReplyTo('info@example.com', 'Information');
 //$mail->addCC('cc@example.com'sender_subject);
