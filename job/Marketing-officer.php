@@ -123,7 +123,12 @@
                 	<div class="box">
                 		<h3><i class="fa fa-question"></i> Who are we</h3>
 						<hr>
-						<p><strong>Digitize</strong> is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet condimentum tellus, at ornare augue. Sed pulvinar mi lorem, non tincidunt tortor dapibus et. Nam viverra, urna nec euismod iaculis, dui ante interdum sem, non pellentesque metus lorem vel sapien. Phasellus in leo at nulla.</p>
+						<p class="text-justify"><strong>Digitize is a </strong> team of software programmers, application developers, 
+                            IT solution innovators, and technology enthusiasts. Our mission is not to just adding value to our 
+                            client by fulfill their technological needs, but giving the best partner experience through fast 
+                            project delivery, continuous collaboration, secure solution, and 24/7 support service. We are 
+                            committed to our vision that we will be the best IT services company in Indonesia by upholding trust 
+                            and integrity.</p>
                         <br>
                         <h3><i class="fa fa-question"></i> What We Offer</h3>
                         <hr>
