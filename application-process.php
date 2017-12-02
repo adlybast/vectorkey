@@ -18,8 +18,7 @@ $file_type= pathinfo($target_file, PATHINFO_EXTENSION);
 
 
 if($_POST['submit']){
-	if(move_uploaded_file($_FILES["resume"]["tmp_name"], $target_file)){	
-		echo"the file successfully uploaded";
+	if(move_uploaded_file($_FILES["resume"]["tmp_name"], $target_file)){
 	$insert=mysql_query("INSERT INTO `job_applicant` VALUES ('NULL', '$first_name',
 	'$last_name', '$email', '$phone', '$address', '$city', '$file_name', '$position')");
 	

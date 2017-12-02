@@ -37,7 +37,7 @@
 		<div class="col-md-8">
 			<div class="box">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-5">
 						<div class="form-group">
 							<label>*First Name</label>
 							<input type="text" name="first_name" class="form-control" placeholder="First Name">
@@ -67,20 +67,22 @@
 				</div>
 	
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-5">
 						<div class="form-group">
 							<label>*City</label>
 							<input type="text" name="city" class="form-control" placeholder="Your City">
 						</div>
 						<div class="form-group">
-							<label>*Resume</label><br>
+							<label>*Resume</label>
+							<br> <br>
 							<div class="btn btn-info btn-file">
 								Browse...<input type="file" name="resume">
 							</div>
+							<br><em>Format: Yourname_resume (Less than 7MB)</em>
 						</div>	
 						<div class="form-group">
 							<label>*Position</label>
-							<input type="text" name="position" class="form-control" value="<?php echo $_POST['position'];?>" readonly>
+							<input type="text" name="position" class="form-control" value="<?php echo $_GET['id']?>" readonly>
 						</div>
 					</div>
 				</div>

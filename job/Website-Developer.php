@@ -110,11 +110,18 @@
                         <h3><i class="fa fa-location-arrow"></i> Location</h3>
                         <hr>
                         <p>Jl. Jawa No.12A Blok H Cinere, Depok Jawa Barat</p>
+                        <br>  
+
+                        <div class="alert alert-success">
+                        <h3><i class="fa fa-info"></i> Important</h3>
+                        <hr>                        
+                        <p>Please Send your Resume to our email at <b>support@digitize.co.id</b> . The file must be less than 7MB</p>
                         <div class="space"></div>
-                        <form action="../application-form.php" method="post">
-                            <input type="hidden" name="position" value="Website Developer">
+                        </div>
+
+                        <!-- <form action="../application-form.php?id=Website+Developer" method="post">
                             <input class="btn btn-info-outline" type="submit" name="submit" value="Apply for this position">
-                        </form>
+                        </form> -->
                         
                 	</div>
                 </div>

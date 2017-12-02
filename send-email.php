@@ -48,7 +48,6 @@ $mail->Body    = "
 $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
 if(!$mail->send()) {
-    echo "<script>window.location.href='index.html#tf-contact'</script>";
     echo 'Mailer Error: ' . $mail->ErrorInfo;
 }
 
