@@ -117,7 +117,7 @@
                         <div class="alert alert-success">
                         <h3><i class="fa fa-info"></i> Important</h3>
                         <hr>                        
-                        <p>Please Send your Resume to our email at <b>support@digitize.co.id</b> . The file must be less than 7MB</p>
+                        <p>Please Send your Resume to our email at <b>support@digitize.co.id</b> . We'll write you back really soon</p>
                         <div class="space"></div>
                         </div>
                         
