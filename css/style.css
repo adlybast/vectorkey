@@ -244,7 +244,7 @@ font-weight: 900;
 
 /* Home Style */
 #tf-home{
-	background: url(../img/banner/15.jpg);
+	background: url(../img/banner/1.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -299,7 +299,7 @@ a.fa.fa-angle-down:hover{
 
 /* Blogging Style */
 #tf-blogging{
-	background: url(../img/banner/11.jpg);
+	background: url(../img/banner/3.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -348,7 +348,7 @@ a.fa.fa-angle-down:hover{
 
 /* Career Style */
 #tf-career{
-	background: url(../img/banner/07.jpg);
+	background: url(../img/banner/6.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -420,7 +420,7 @@ a.fa.fa-angle-down:hover{
 }
 /* Team Section */
 #tf-team{
-	background: url(../img/banner/09.jpg);
+	background: url(../img/banner/5.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -584,7 +584,7 @@ img.img-circle.team-img {
 
 /* Clients Section */
 #tf-clients{
-	background: url(../img/banner/10.jpg);
+	background: url(../img/banner/4.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -831,7 +831,7 @@ button.btn.tf-btn.btn-default {
 /* Blog Section*/
 
 #tf-blog{
-	background: url(../img/banner/11.jpg);
+	background: url(../img/banner/3.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
